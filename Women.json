@@ -1,0 +1,110 @@
+[
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 1,
+        "brand_id": 10,
+        "product_name": "Women kurta set with dupatta",
+        "Image": "https://ibb.co/MkDhrwp",
+        "Price": 1469
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 1,
+        "brand_id": 11,
+        "product_name": "Ethnic churidar set",
+        "Image": "https://ibb.co/z49fF5m",
+        "Price": 1500
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 1,
+        "brand_id": 12,
+        "product_name": "Georgette saree for party wear",
+        "Image": "https://ibb.co/hWhDsnH",
+        "Price": 3000
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 2,
+        "brand_id": 1,
+        "product_name": "Floral print fit and flare dress",
+        "Image": "https://ibb.co/rbL39gq",
+        "Price": 1469
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 2,
+        "brand_id": 13,
+        "product_name": "Pure cotton tshirt",
+        "Image": "https://ibb.co/7jwfZP9",
+        "Price": 469
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 2,
+        "brand_id": 14,
+        "product_name": "High neck cropped top",
+        "Image": "https://ibb.co/Gkc9L4r",
+        "Price": 700
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 3,
+        "brand_id": 15,
+        "product_name": "Face and Body gel scrub",
+        "Image": "https://ibb.co/XDRKW3d",
+        "Price": 500
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 3,
+        "brand_id": 16,
+        "product_name": "Pure rosemary essential oil",
+        "Image": "https://ibb.co/q067Sgw",
+        "Price": 600
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 3,
+        "brand_id": 17,
+        "product_name": "Embellished bindi",
+        "Image": "https://ibb.co/BjP31P0",
+        "Price": 100
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 4,
+        "brand_id": 18,
+        "product_name": "Women block heels",
+        "Image": "https://ibb.co/j6WvKnN",
+        "Price": 2000
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 4,
+        "brand_id": 14,
+        "product_name": "Women embellished ballerinas",
+        "Image": "https://ibb.co/Hhr7zyz",
+        "Price": 1800
+    },
+    {
+        "id": 2,
+        "section_id": "B",
+        "category_id": 4,
+        "brand_id": 19,
+        "product_name": "Women embellished wedges",
+        "Image": "https://ibb.co/kMCVw8n",
+        "Price": 3500
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "id" : 1,
+        "section": "Men",
+        "section_id": "A",
+        "category":[
+            {
+                "category_name": "Top Wear",
+                "category_id": 1,
+                "brands": [
+                    {
+                        "brand_id": 1,
+                        "brand_name": "Roadster" 
+                    },
+                    {
+                        "brand_id": 2,
+                        "brand_name": "Allen Solly" 
+                    },
+                    {
+                        "brand_id": 3,
+                        "brand_name": "Louis Philippe" 
+                    }
+       
+       
+                ]
+                
+            },
+            {
+                "category_name": "Festive Wear",
+                "category_id": 2,
+                "brands": [
+                    {
+                        "brand_id": 4,
+                        "brand_name": "DEYANN" 
+                    },
+                    {
+                        "brand_id": 5,
+                        "brand_name": "SOJANYA" 
+                    },
+                    {
+                        "brand_id": 6,
+                        "brand_name": "KISAH" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Bottom Wear",
+                "category_id": 3,
+                "brands": [
+                    {
+                        "brand_id": 1,
+                        "brand_name": "Roadster" 
+                    },
+                    {
+                        "brand_id": 2,
+                        "brand_name": "Allen Solly" 
+                    },
+                    {
+                        "brand_id": 3,
+                        "brand_name": "Louis Philippe" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Foot Wear",
+                "category_id": 4,
+                "brands": [
+                    {
+                        "brand_id": 7,
+                        "brand_name": "PUMA" 
+                    },
+                    {
+                        "brand_id": 8,
+                        "brand_name": "Campus" 
+                    },
+                    {
+                        "brand_id": 9,
+                        "brand_name": "Sparx" 
+                    }
+       
+       
+                ]
+            }
+        ]
+
+    },
+    {
+        "id" : 2,
+        "section": "Women",
+        "section_id": "B",
+        "category":[
+            {
+                "category_name": "Fusion and Indian Wear",
+                "category_id": 1,
+                "brands": [
+                    {
+                        "brand_id": 10,
+                        "brand_name": "Florence" 
+                    },
+                    {
+                        "brand_id": 11,
+                        "brand_name": "Sangria" 
+                    },
+                    {
+                        "brand_id": 12,
+                        "brand_name": "Saree Mall" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Western Wear",
+                "category_id": 2,
+                "brands": [
+                    {
+                        "brand_id": 1,
+                        "brand_name": "Roadster" 
+                    },
+                    {
+                        "brand_id": 13,
+                        "brand_name": "URBANIC" 
+                    },
+                    {
+                        "brand_id": 14,
+                        "brand_name": "Dress Berry" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Beauty and personal care",
+                "category_id": 3,
+                "brands": [
+                    {
+                        "brand_id": 15,
+                        "brand_name": "Pink Plums" 
+                    },
+                    {
+                        "brand_id": 16,
+                        "brand_name": "Deve Herbes" 
+                    },
+                    {
+                        "brand_id": 17,
+                        "brand_name": "Comet Busters" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Foot Wear",
+                "category_id": 4,
+                "brands": [
+                    {
+                        "brand_id": 18,
+                        "brand_name": "Metro" 
+                    },
+                    {
+                        "brand_id": 14,
+                        "brand_name": "Dress Berry" 
+                    },
+                    {
+                        "brand_id": 19,
+                        "brand_name": "Mochi" 
+                    }
+       
+       
+                ]
+            }
+        ]
+
+    },
+    {
+        "id" : 3,
+        "section": "Kids",
+        "section_id": "C",
+        "category":[
+            {
+                "category_name": "Boys clothing",
+                "category_id": 1,
+                "brands": [
+                    {
+                        "brand_id": 20,
+                        "brand_name": "Gini and Jony" 
+                    },
+                    {
+                        "brand_id": 21,
+                        "brand_name": "Max" 
+                    },
+                    {
+                        "brand_id": 22,
+                        "brand_name": "Hopskotch" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Girls clothing",
+                "category_id": 2,
+                "brands": [
+                    {
+                        "brand_id": 20,
+                        "brand_name": "Gini and Jony" 
+                    },
+                    {
+                        "brand_id": 21,
+                        "brand_name": "Max" 
+                    },
+                    {
+                        "brand_id": 22,
+                        "brand_name": "Hopskotch" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Infants",
+                "category_id": 3,
+                "brands": [
+                    {
+                        "brand_id": 20,
+                        "brand_name": "Gini and Jony" 
+                    },
+                    {
+                        "brand_id": 21,
+                        "brand_name": "Max" 
+                    },
+                    {
+                        "brand_id": 22,
+                        "brand_name": "Hopskotch" 
+                    }
+       
+       
+                ]
+            },
+            {
+                "category_name": "Toys",
+                "category_id": 4,
+                "brands": [
+                    {
+                        "brand_id": 23,
+                        "brand_name": "Ultra" 
+                    },
+                    {
+                        "brand_id": 24,
+                        "brand_name": "Baby Moo" 
+                    },
+                    {
+                        "brand_id": 25,
+                        "brand_name": "Webby" 
+                    }
+       
+       
+                ]
+            }
+        ]
+
+    }
+    
+] 

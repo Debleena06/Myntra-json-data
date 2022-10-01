@@ -1,0 +1,110 @@
+[
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 1,
+        "brand_id": 20,
+        "product_name": "Boys solid cotton joggers",
+        "Image": "https://ibb.co/P4s2S9X",
+        "Price": 563
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 1,
+        "brand_id": 21,
+        "product_name": "Boys pure cotton nightsuit",
+        "Image": "https://ibb.co/j3WcyVL",
+        "Price": 700
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 1,
+        "brand_id": 22,
+        "product_name": "Boys printed pyjama and blazer",
+        "Image": "https://ibb.co/f9cpv9x",
+        "Price": 900
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 2,
+        "brand_id": 20,
+        "product_name": "Sequil party dress",
+        "Image": "https://ibb.co/bd8SPDd",
+        "Price": 1366
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 2,
+        "brand_id": 21,
+        "product_name": "Girls printed pyjama set",
+        "Image": "https://ibb.co/kMSR1R6",
+        "Price": 1157
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 2,
+        "brand_id": 22,
+        "product_name": "Girls nightsuit",
+        "Image": "https://ibb.co/V93NXsd",
+        "Price": 719
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 3,
+        "brand_id": 20,
+        "product_name": "Girls printed sharara set",
+        "Image": "https://ibb.co/3NmB13J",
+        "Price": 1500
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 3,
+        "brand_id": 21,
+        "product_name": "Boys casual shirt",
+        "Image": "https://ibb.co/TwrrThQ",
+        "Price": 345
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 3,
+        "brand_id": 22,
+        "product_name": "Sweatshirt set",
+        "Image": "https://ibb.co/8sd28FS",
+        "Price": 700
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 4,
+        "brand_id": 23,
+        "product_name": "Kids bouncing climbing car toy",
+        "Image": "https://ibb.co/zmBJYZf",
+        "Price": 1199
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 4,
+        "brand_id": 24,
+        "product_name": "Unisex kids kick scooter",
+        "Image": "https://ibb.co/HHB18zS",
+        "Price": 2267
+    },
+    {
+        "id": 3,
+        "section_id": "C",
+        "category_id": 4,
+        "brand_id": 25,
+        "product_name": "Remote control car",
+        "Image": "https://ibb.co/8z1RbN7",
+        "Price": 1309
+    }
+]

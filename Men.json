@@ -1,0 +1,111 @@
+[
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 1,
+        "brand_id": 1,
+        "product_name": "Slim fit casual shirt",
+        "Image": "https://ibb.co/JykcCQS",
+        "Price": 1520
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 1,
+        "brand_id": 2,
+        "product_name": "Men Cotton Polo t-shirt",
+        "Image": "https://ibb.co/s5TM21Y",
+        "Price": 1200
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 1,
+        "brand_id": 3,
+        "product_name": "Slim fit casual shirt",
+        "Image": "https://ibb.co/5hNbHrm",
+        "Price": 1699
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 2,
+        "brand_id": 4,
+        "product_name": "Printed Straight Kurta",
+        "Image": "https://ibb.co/Vp7SYVW",
+        "Price": 2500
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 2,
+        "brand_id": 5,
+        "product_name": "Solid kurta with pyjamas",
+        "Image": "https://ibb.co/RQqxVms",
+        "Price": 2499
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 2,
+        "brand_id": 6,
+        "product_name": "Solid kurta with churidar",
+        "Image": "https://ibb.co/5cM63H8",
+        "Price": 1699
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 3,
+        "brand_id": 4,
+        "product_name": "Slim fit jeans",
+        "Image": "https://ibb.co/hW8j4sH",
+        "Price": 2500
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 3,
+        "brand_id": 4,
+        "product_name": "Cotton cargo trousers",
+        "Image": "https://ibb.co/SdKGk62",
+        "Price": 3000
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 3,
+        "brand_id": 4,
+        "product_name": "Skinny fit jeans",
+        "Image": "https://ibb.co/fx5vdxC",
+        "Price": 1500
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 4,
+        "brand_id": 7,
+        "product_name": "Men sneakers",
+        "Image": "https://ibb.co/n6kNnDT",
+        "Price": 1500
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 4,
+        "brand_id": 8,
+        "product_name": "Men sliders",
+        "Image": "https://ibb.co/yyBsKsf",
+        "Price": 899
+    },
+    {
+        "id" : 1,
+        "section_id": "A",
+        "category_id": 4,
+        "brand_id": 9,
+        "product_name": "Men walking shoes",
+        "Image": "https://ibb.co/Hhb7z0b",
+        "Price": 900
+    }
+
+]
